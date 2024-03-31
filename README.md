@@ -1,6 +1,6 @@
 # web-projects
 
-   <h2> 1 Student-Management </h2>
+   <h2> Student-Management </h2>
    
    This is my first project  in web devlopment 
 
@@ -15,4 +15,4 @@ Frontend: HTML, CSS, JavaScript <br>
 Backend: Servlets, JSP (JavaServer Pages) <br>
 Database: MySql JDBC (Java Database Connectivity) <br>
 Ide : eclipse ide, maven dependency <br>
-Server : apache tomcat <br>
+Server : apache tomcat 
